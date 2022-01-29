@@ -1,12 +1,10 @@
 *.exe
 *.exe~
 static/dist/*
+vue/*
 dist/*
 logs/*
-docs/*
 gens/*
 blog
 blog.*
 publish*
-.idea
-node_modules
