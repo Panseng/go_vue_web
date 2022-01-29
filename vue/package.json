@@ -1,7 +1,7 @@
 {
-	"name": "zxysilent-blog",
+	"name": "jimmy-web",
 	"version": "0.2.0",
-	"description": "A template about Vue and iView By zxysilent. https://github.com/zxysilent",
+	"description": "A template about Vue and iView By jimmy. https://github.com/Panseng",
 	"private": true,
 	"scripts": {
 		"serve": "vue-cli-service serve",

@@ -8,7 +8,7 @@
 				</a>
 			</div>
 			<div class="desc">
-				github.com/zxysilent/blog
+				github.com/Panseng/go_vue_web
 			</div>
 		</div>
 		<div class="main">
@@ -64,7 +64,7 @@
 				<a>条款</a>
 			</div>
 			<div class="copyright">
-				Copyright &copy; {{new Date().getFullYear()}}&nbsp;<a target="_blank" href="https://github.com/zxysilent">github.com/zxysilent</a>&nbsp;&nbsp;<a target="_blank" href="https://blog.zxysilent.com">blog.zxysilent.com</a>
+				Copyright &copy; {{new Date().getFullYear()}}&nbsp;<a target="_blank" href="https://github.com/Panseng">github.com/Panseng</a>&nbsp;&nbsp;<a target="_blank" href="https://jimmypan.cn">jimmypan.cn</a>
 			</div>
 		</div>
 	</div>
