@@ -10,6 +10,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
+	"fmt"
 	"strconv"
 	"time"
 
@@ -58,6 +59,15 @@ func AuthLogin(ctx echo.Context) error {
 	}
 	now := time.Now()
 	// 禁止登陆证 5 分钟
+	fmt.Println("=======================================================")
+	fmt.Println()
+	fmt.Println()
+	fmt.Println()
+	fmt.Println(ipt.Passwd)
+	fmt.Println()
+	fmt.Println()
+	fmt.Println()
+	fmt.Println("=======================================================")
 	if mod.Ecount == -1 {
 		// 登录时间差
 		span := maxErrLogin - int(now.Sub(mod.Ltime).Minutes())

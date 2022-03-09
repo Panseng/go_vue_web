@@ -1,7 +1,7 @@
 ## go_web
 
 本项目源自[blog](https://github.com/zxysilent/blog) \
-目前主要功能为个人博客服务。\
+目前主要功能为个人博客服务。
 
 ### TODO
 - [ ] 增加个人简历功能，markdown编辑，输出pdf
@@ -9,9 +9,6 @@
 
 ### 目录结构
 ```tree
-卷 仓储 的文件夹 PATH 列表
-卷序列号为 DE26-25AF
-E:.
 _________
 ├─conf
 ├─control
