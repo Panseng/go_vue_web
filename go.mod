@@ -10,7 +10,7 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/swaggo/echo-swagger v1.1.2
-	github.com/swaggo/swag v1.7.8
+	github.com/swaggo/swag v1.7.8 // indirect
 	github.com/zxysilent/logs v0.1.7
 	github.com/zxysilent/utils v0.2.5
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
